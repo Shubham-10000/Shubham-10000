@@ -5,7 +5,7 @@
 ---
 
 ## 👋 About Me
-Hello! I'm **Shubham Sawant**, a passionate professional with experience in **product management**, **data systems**, and **Python development**. I have a knack for solving complex problems and an enthusiasm for **data engineering**, **cloud platforms**, and **web scraping** projects.
+Hello! I'm **Shubham Sawant**, a passionate professional with experience in **product management**, **data systems**, and **Python development**. I have a keen interest in **data analysis**, **machine learning**, and continuously learning new techniques to solve real-world problems with data. I enjoy working on projects involving **data engineering**, **cloud platforms**, and **web scraping**.
 
 ---
 
@@ -14,32 +14,36 @@ Hello! I'm **Shubham Sawant**, a passionate professional with experience in **pr
 - **Web Technologies**: HTML, CSS, JavaScript (Basics)
 - **Cloud Platforms**: AWS (Basics), Azure (Basics)
 - **Data Handling**: Pandas, Beautiful Soup, Requests
+- **Machine Learning**: Classification Algorithms, Model Training
 - **Tools**: Jupyter Notebook, Linux
 
 ---
 
 ## 📚 Projects
 
-### 1. Let's Get Happi App
-A wellness app incorporating teletherapy and AI-based chatbots. Integrated modules like breathalyzer APIs and enhanced ROI strategies.  
-[View Project](https://letsgethappi.com)
+### 1. Data Analysis Enthusiasm & ML Learning
+I'm currently focused on expanding my skills in **data analysis** and **machine learning**. I’ve been diving into various datasets and exploring **classification algorithms** for different use cases. 
 
-### 2. GTDC Insurance Data Analysis
+### 2. Classification Repository
+A repository showcasing my work with **classification algorithms** like logistic regression, decision trees, and random forests. The project includes data preprocessing, model training, and evaluation using Python.  
+[View Repository](#)
+
+### 3. GTDC Insurance Data Analysis
 Performed data cleaning, transformation, and exploratory analysis on insurance datasets using Python.  
 [View Repository](#)
 
-### 3. GitHub Topics Scraper
+### 4. GitHub Topics Scraper
 Web scraping project to extract GitHub topic details and top repositories. Saved data in CSV files for analysis.  
 [View Repository](#)
 
-### 4. Slot Machine Simulation
+### 5. Slot Machine Simulation
 A fun interactive Python game simulating a slot machine with betting functionality.  
 [View Repository](#)
 
 ---
 
 ## 🌟 Interests
-I'm enthusiastic about **data engineering**, **cloud computing**, and solving real-world problems using **Python** and **data systems**. I also enjoy experimenting with **web scraping** and **ETL pipelines**.
+I'm enthusiastic about **data engineering**, **cloud computing**, and solving real-world problems using **Python** and **data systems**. I also enjoy experimenting with **machine learning** techniques, especially classification models, as well as **web scraping** and **ETL pipelines**.
 
 ---
 
@@ -51,4 +55,4 @@ Feel free to reach out for collaboration or queries:
 
 ---
 
-### Crafted with ❤️ by Shubham Sawant
+### Crafted with Confidence by Shubham Sawant
