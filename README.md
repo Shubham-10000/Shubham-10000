@@ -26,19 +26,19 @@ I'm currently focused on expanding my skills in **data analysis** and **machine 
 
 ### 2. Classification Repository
 A repository showcasing my work with **classification algorithms** like logistic regression, decision trees, and random forests. The project includes data preprocessing, model training, and evaluation using Python.  
-[View Repository](#)
+[View Repository](https://github.com/Shubham-10000/DS-Project-Classification)
 
 ### 3. GTDC Insurance Data Analysis
 Performed data cleaning, transformation, and exploratory analysis on insurance datasets using Python.  
-[View Repository](#)
+[View Repository](https://github.com/Shubham-10000/DS-Prj-GTDC)
 
 ### 4. GitHub Topics Scraper
 Web scraping project to extract GitHub topic details and top repositories. Saved data in CSV files for analysis.  
-[View Repository](#)
+[View Repository](https://github.com/Shubham-10000/Webscrapping-Git)
 
 ### 5. Slot Machine Simulation
 A fun interactive Python game simulating a slot machine with betting functionality.  
-[View Repository](#)
+[View Repository](https://github.com/Shubham-10000/Python-Random-Small-Projects)
 
 ---
 
