@@ -1,6 +1,6 @@
 # Shubham Sawant
 
-**Aspiring Data Engineer | AWS & Azure Enthusiast | Python Developer**
+**Aspiring Data Scientist| AWS & Azure Enthusiast | Python Developer**
 
 ---
 
