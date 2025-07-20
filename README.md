@@ -13,8 +13,8 @@ Hello! I'm **Shubham Sawant**, a passionate professional with experience in **pr
 - **Programming**: Python, SQL
 - **Web Technologies**: HTML, CSS, JavaScript (Basics)
 - **Cloud Platforms**: AWS (Basics), Azure (Basics)
-- **Data Handling**: Pandas, Beautiful Soup, Requests
-- **Machine Learning**: Classification Algorithms, Model Training
+- **Data Handling**: Pandas, Beautiful Soup, Requests, sci-learn, etc...
+- **Machine Learning**: Classification Algorithms, Model Training, linear regression 
 - **Tools**: Jupyter Notebook, Linux
 
 ---
@@ -37,7 +37,7 @@ Web scraping project to extract GitHub topic details and top repositories. Saved
 [View Repository](https://github.com/Shubham-10000/Webscrapping-Git)
 
 ### 5. Slot Machine Simulation
-A fun interactive Python game simulating a slot machine with betting functionality.  
+A fun, interactive Python game simulating a slot machine with betting functionality.  
 [View Repository](https://github.com/Shubham-10000/Python-Random-Small-Projects)
 
 ---
